@@ -1,0 +1,44 @@
+# Visual Studio Files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.VC.db
+*.opendb
+*.obj
+*.idb
+*.log
+*.tlog
+*.pch
+*.pdb
+*.ipch
+
+# Build Output Directories
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Backup & Temp Files
+*.bak
+*.tmp
+*.~*
+
+# Qt Specific Files
+*.qrc.depends
+Makefile*
+*.autosave
+*.moc
+*.rcc
+*.qmake.stash
+
+# Ignore generated UI/Resource files (if any are auto-generated)
+ui_*.h
+qrc_*.cpp
+moc_*.cpp
+
+# CSV Dataset Files (optional: include or exclude depending on size/privacy)
+# mnist_train.csv
+# mnist_test.csv
