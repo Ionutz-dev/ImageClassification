@@ -78,4 +78,15 @@
       <Filter>Header Files</Filter>
     </QtMoc>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="mnist_train.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="mnist_test.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\.gitignore">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
