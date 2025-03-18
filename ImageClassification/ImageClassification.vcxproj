@@ -131,10 +131,6 @@
     <QtMoc Include="MainWindow.h" />
     <ClInclude Include="T.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="mnist_test.csv" />
-    <None Include="mnist_train.csv" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
     <Import Project="$(QtMsBuild)\qt.targets" />
