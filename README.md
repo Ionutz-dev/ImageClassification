@@ -48,7 +48,7 @@ ImageClassification/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ImageClassification.git
+   git clone https://github.com/Ionutz-dev/ImageClassification.git
    cd ImageClassification
    ```
 
